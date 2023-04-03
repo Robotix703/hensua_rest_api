@@ -1,0 +1,36 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "target": "es2022",
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "build",
+        "baseUrl": ".",
+        "types": ["node"],
+        "paths": {
+            "*": [
+                "node_modules/*"
+            ]
+        },
+        "skipLibCheck": true
+    },
+    "include": [
+        "src/*",
+        "src/models/*",
+        "src/routes/*",
+        "src/error/*",
+        "src/middleware/*",
+        "src/controllers/*",
+        "src/compute/*",
+        "src/compute/base/*",
+        "tests/compute/*.ts",
+        "tests/compute/base/*.ts",
+        "tests/controllers/*.ts"
+    ],
+    "exclude": [
+        "build/*"
+    ]
+}
