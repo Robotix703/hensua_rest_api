@@ -250,4 +250,230 @@
             }
         ]
     },
+    {
+        "workout_name": "Starter",
+        "position": "w3d1",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 60,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 120,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 120,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 30,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 90,
+                "type": "Rest"
+            }
+        ]
+    },
+    {
+        "workout_name": "Starter",
+        "position": "w3d2",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 60,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 300,
+                        "type": "SPM",
+                        "target": 20
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 300,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 30,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ]
+    },
+    {
+        "workout_name": "Starter",
+        "position": "w4d1",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 60,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 240,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 300,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 240,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 60,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ]
+    },
+    {
+        "workout_name": "Starter",
+        "position": "w4d2",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 60,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 180,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 180,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 180,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ]
+    }
 ]
