@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Starter",
+        "level": "Beginner"
+    },
+    {
+        "name": "Fit Energy",
+        "level": "Beginner"
+    },
+    {
+        "name": "Speed Builder",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Max Power",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Speed Builder +",
+        "level": "Advanced"
+    }
+]
