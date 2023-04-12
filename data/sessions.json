@@ -475,5 +475,819 @@
                 "type": "Rest"
             }
         ]
-    }
+    },
+
+    {
+        "workout_name": "Fit Energy",
+        "position": "w1d1",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w1d2",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            },
+            {
+                "name": "Rest",
+                "duration": 30,
+                "type": "Rest"
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 180,
+                        "type": "Rest"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w1d3",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w2d1",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 240,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w2d2",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 60,
+                "type": "SPM",
+                "target": 24
+            },
+            {
+                "name": "Rest",
+                "duration": 60,
+                "type": "Rest"
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 120,
+                        "type": "Rest"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 90,
+                        "type": "Rest"
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w2d3",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 240,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w3d1",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 26
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w3d2",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 60,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 180,
+                        "type": "Rest"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w3d3",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 26
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w4d1",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 26
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w4d2",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 28
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 28
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 28
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 180,
+                        "type": "Rest"
+                    }
+                ]
+            },
+            {
+                "name": "2",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 26
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 26
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 26
+                    },
+                    {
+                        "name": "Rest",
+                        "duration": 60,
+                        "type": "Rest"
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+    {
+        "workout_name": "Fit Energy",
+        "position": "w4d3",
+        "warmUp": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ],
+        "intervals": 
+        [
+            {
+                "name": "1",
+                "program": [
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 60,
+                        "type": "SPM",
+                        "target": 26
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 24
+                    },
+                    {
+                        "name": "Row",
+                        "duration": 120,
+                        "type": "SPM",
+                        "target": 22
+                    }
+                ]
+            }
+        ],
+        "cooldown": [
+            {
+                "name": "Row",
+                "duration": 120,
+                "type": "SPM",
+                "target": 20
+            }
+        ]
+    },
+
+    
 ]
